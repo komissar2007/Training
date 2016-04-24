@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Training</string>
+    <string name="report_history_button_name">History</string>
+    <string name="add_report_button_name">Add report</string>
 </resources>
